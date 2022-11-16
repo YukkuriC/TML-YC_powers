@@ -1,0 +1,4 @@
+displayName = YukkuriC's misc powers
+author = YukkuriC
+version = 0.1
+side = NoSync
